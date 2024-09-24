@@ -8,6 +8,10 @@ Nobu Trip Tracker is a simple Python script that I made that allows me to keep t
 - View all recorded trips.
 - Automatically save trips to a JSON file for persistence between sessions.
 
+## TODO
+
+Frontend using Flask or Django. 
+
 ## Menu
 
 | Nobu Dish                                                 | Price    |
